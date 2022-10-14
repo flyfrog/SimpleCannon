@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94a824f93a9b0aa469aa8caf30fa25c0, type: 3}
+  m_Name: CannonFireSettingsSO
+  m_EditorClassIdentifier: 
+  fireForce: 21
+  bulletPrefab: {fileID: 9216169566617164637, guid: d0f7652a43bf5de498281ede6d21d65a, type: 3}
+  timeFireReload: 0.58

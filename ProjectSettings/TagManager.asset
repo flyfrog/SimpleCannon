@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Environment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1575914015
+    locked: 0
+  - name: Wall and Platform
+    uniqueID: 3825981055
+    locked: 0
+  - name: Cannon and Ball
+    uniqueID: 2851756385
+    locked: 0
+  - name: Target
+    uniqueID: 2998314465
+    locked: 0
+  - name: FX
+    uniqueID: 3395006037
+    locked: 0
+  - name: AIM
+    uniqueID: 66019819
+    locked: 0
+  - name: UI
+    uniqueID: 614824223
+    locked: 0

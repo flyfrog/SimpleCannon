@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69e8aeb5b6104adbb4f81b2dfd99756e, type: 3}
+  m_Name: FXSettingsSO
+  m_EditorClassIdentifier: 
+  cannonFireSmog: {fileID: 2797531908298500425, guid: c59b2d41f3cb0084f92013378286b21a, type: 3}
+  cannonFireSparks: {fileID: 4553635096887280867, guid: b08960754a280fb4f8772b6b6584a3df, type: 3}
+  bulletExplosion: {fileID: 6941019627849680916, guid: ec046a9c6906fae40a694e6b60ee3ea8, type: 3}
+  targetExplosion: {fileID: 2798125104361156699, guid: 64d51b2a44d180d4da741cf343697589, type: 3}
